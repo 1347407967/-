@@ -1,0 +1,3 @@
+<!--home/home.wxml-->
+<text class="color">hello world</text>
+<button size="mini">按钮</button>
